@@ -1,5 +1,7 @@
 # DocumentosBr
+[![Gem Version](https://badge.fury.io/rb/documentos_br.png)](http://badge.fury.io/rb/documentos_br)
 [![Build Status](https://travis-ci.org/jacksonpires/documentos_br.svg?branch=master)](https://travis-ci.org/jacksonpires/documentos_br)
+[![Code Climate](https://codeclimate.com/github/jacksonpires/documentos_br.png)](https://codeclimate.com/github/jacksonpires/documentos_br)
 
 DocumentosBr é um 'wrapper' para a suíte de funcionalidades das Gems 'CpfUtils', 'CnpjUtils' e 'TituloEleitorUtils'.
 O DocumentosBr é capaz de gerar CPF, CNPJ e Título de Eleitor para testes no formado tradicional ou apenas numérico, testa se determinado número de CPF, CNPJ ou Título de Eleitor é válido, gera dígitos verificadores para determinado número candidato a CPF, CNPJ ou Título de Eleitor, dentre outras coisas.
