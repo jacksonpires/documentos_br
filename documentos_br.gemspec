@@ -8,11 +8,11 @@ Gem::Specification.new do |spec|
   spec.version       = DocumentosBr::VERSION
   spec.authors       = ["Jackson Pires"]
   spec.email         = ["jackson.pires@gmail.com"]
-  spec.description   = %q{Uma suite de funcionalidades para CPF e CNPJ.}
-  spec.summary       = %q{Gera CPF e CNPJ para testes no formado tradicional ou
-                          apenas numérico, testa se determinado número de CPF ou
-                          CNPJ é válido, além muitas outras funcionalidades
-                          descritas na documentação.}
+  spec.description   = %q{Uma 'wrapper' para as Gems 'CpfUtils', 'CnpjUtils' e
+                          'TituloEleitorUtils'.}
+  spec.summary       = %q{DocumentosBr é um 'wrapper' para a suíte de
+                          funcionalidades das Gems 'CpfUtils', 'CnpjUtils' e
+                          'TituloEleitorUtils'.}
   spec.homepage      = "https://github.com/jacksonpires/documentos_br"
   spec.license       = "MIT"
 
