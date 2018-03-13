@@ -13,7 +13,7 @@ O DocumentosBr é capaz de gerar CPF, CNPJ e Título de Eleitor para testes no f
 
 O DocumentosBr usa o Travis-CI para efetuar testes em diferentes versões do Ruby. As versões testadas e aprovadas, por enquanto, são:
 
-* MRI 1.9.2, 1.9.3, 2.0.0, 2.1.0
+* MRI 1.9.2, 1.9.3, 2.0.0, 2.1.0, 2.2.0, 2.3.0, 2.4.0, 2.5.0
 * JRuby 1.9.x
 
 ## Instalação
