@@ -244,7 +244,7 @@ DocumentosBr.uf_do_titulo_eleitor("759026311727") => # "TO"
 
 ## Recomende
 
-Gostou dessa gem? Recomende-me no [Working With Rails](http://www.workingwithrails.com/people/148426)!
+Gostou dessa gem? Recomende-me no [Linkedin](https://www.linkedin.com/in/jackson-pires-a0832b14)!
 
 ## Contribuindo
 
